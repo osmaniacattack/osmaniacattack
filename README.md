@@ -4,9 +4,10 @@ My name is Abdul Osman, a passionate Front End Developer. I studied Informatics 
 
 Some of my favorite ones are:
 <ul>
-  <li><a href="https://strangers-or-not.vercel.app/" target="_blank">https://strangers-or-not.vercel.app/</a></li>
-  <li><a href="https://movieapp-aqosman.netlify.app/" target="_blank">https://movieapp-aqosman.netlify.app/</a></li>
-  <li><a href="https://dadjokes-aqosman.netlify.app/" target="_blank">https://dadjokes-aqosman.netlify.app/</a></li>
+  <li><a href="https://strangers-or-not.vercel.app/" target="_blank">Strangers or Not Game</a></li>
+  <li><a href="https://ecommerce-aqosman.vercel.app/" target="_blank">Simple E-Commerce App</a></li>
+  <li><a href="https://movieapp-aqosman.netlify.app/" target="_blank">Movie Search App</a></li>
+  <li><a href="https://dadjokes-aqosman.netlify.app/" target="_blank">Dad Jokes</a></li>
 </ul>
 
 ## Current Location 📍
