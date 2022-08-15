@@ -18,7 +18,7 @@ At the moment I am a Technology Coordinator for the Non-Profit, OCMECCA, where I
 
 <ul>
 <li>Submitting data reports after conducting crisis counseling</li>
-<li>Culling data from MongoDB and generating tallies for reporting on the dashboard and via CSV exporting</li>
+<li>Culling data from MongoDB and generating tallies for reporting on the dashboard and CSV exports</li>
 <li>Reviewing and approving forms based on user roles and permissions</li>
 </ul>
 
