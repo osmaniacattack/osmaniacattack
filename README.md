@@ -1,6 +1,6 @@
 # :wave: Hello, everyone!
 
-My name is Abdul Osman, a passionate Front End Developer. I studied Informatics with a background in Human-Computer Interaction. but I have a knack for building small, fun web applications via React or old fashioned HTML/CSS/JavaScript. Check out my growing list of apps at: <a href="aqosman.netlify.app" target="_blank">aqosman.netlify.app</a><br/>
+My name is Abdul Osman, a passionate Front End Developer. I studied Informatics with a background in Human-Computer Interaction, but I have a knack for building small, fun web applications via React or old fashioned HTML/CSS/JavaScript. Check out my growing list of apps at: <a href="aqosman.netlify.app" target="_blank">aqosman.netlify.app</a><br/>
 
 Some of my favorite ones are:
 <ul>
