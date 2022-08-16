@@ -8,7 +8,7 @@ Some of my favorite ones are:
   <li><a href="https://ecommerce-aqosman.vercel.app/" target="_blank">Simple E-Commerce App</a></li>
   <li><a href="https://movieapp-aqosman.netlify.app/" target="_blank">Movie Search App</a></li>
   <li><a href="https://dadjokes-aqosman.netlify.app/" target="_blank">Dad Jokes</a></li>
-  <li><a href="https://minimal-clock-aqosman.netlify.app/" target="_blank">Minimalist Clock</a></li>
+  <li><a href="https://minimal-clock-aqosman.netlify.app/" target="_blank">Minimalist Clock</a></li> (I'm planning to extend this to a Genshin Impact themed clock app).
 </ul>
 
 ## Current Location 📍
